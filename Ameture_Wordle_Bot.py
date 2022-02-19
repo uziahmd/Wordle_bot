@@ -50,6 +50,8 @@ def main():
     turn = 1
     win = False
     
+    print("GET READY TO BE DEFEATED")
+
     while (turn <= 6 and win == False):
         print("This is our guess")
         num = 0
